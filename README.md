@@ -1,11 +1,5 @@
 # KG-Flan: Graph-Enhanced LLM Reasoning with Trained Relation Scoring
 
-> **NLP Course Project** — Reproduction & Extension of KG-GPT  
-> FAST-NUCES | Spring 2026  
-> Group: 25I-7614 · 25I-7609
-
---
-
 ##  Overview
 
 This project reproduces and extends **KG-GPT** (*Bi et al., 2023*), a framework that grounds large language model reasoning in structured knowledge graphs. The original paper used OpenAI's GPT (paid API) and evaluated on large-scale datasets — making full reproduction expensive. We replaced GPT with **Flan-T5-Large** (open-source, free) and introduced a **trained MLP Relation Scorer** as our core novelty.
@@ -216,13 +210,4 @@ FactKG's DBpedia has hundreds of unique relations — precise filtering matters 
 4. Reimers, N. & Gurevych, I. *Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.* EMNLP 2019.
 5. Chung, H., et al. *Scaling Instruction-Finetuned Language Models (Flan-T5).* JMLR 2024.
 
----
 
-## Group Members
-
-| Name | Roll No |
-|------|---------|
-| Shanzae Khan| 25I-7614 |
-| Ashifa Ikram | 25I-7609 |
-
-*FAST-NUCES Islamabad — NLP Course, Spring 2026*
